@@ -1,5 +1,5 @@
-mod vectors;
+mod conditionals;
 
 fn main() {
-    vectors::run();
+    conditionals::run();
 }
