@@ -1,5 +1,5 @@
-mod functions;
+mod pointers;
 
 fn main() {
-    functions::run();
+    pointers::run();
 }
