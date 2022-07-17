@@ -1,6 +1,7 @@
 //variables hold primitive data or references to data
 //are immutable by default
 //block-scoped:rust
+//can redeclare vars while preserving mutability - shadowing
 
 pub fn run() {
     let name = "Ayush";

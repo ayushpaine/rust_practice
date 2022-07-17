@@ -1,6 +1,7 @@
 /*
 tuples group together elements of different types
 max 12 elements
+to get data - use destructuring or . notation
 */
 
 pub fn run() {

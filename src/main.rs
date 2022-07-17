@@ -1,5 +1,5 @@
-mod guessing_game;
+mod ownership_rules;
 
 fn main() {
-    guessing_game::run();
+    ownership_rules::run();
 }
