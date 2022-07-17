@@ -1,5 +1,5 @@
-mod ownership_rules;
+mod structs_again;
 
 fn main() {
-    ownership_rules::run();
+    structs_again::run();
 }
