@@ -1,5 +1,5 @@
-mod cli;
+mod guessing_game;
 
 fn main() {
-    cli::run();
+    guessing_game::run();
 }
