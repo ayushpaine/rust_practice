@@ -1,5 +1,5 @@
-mod structs_again;
+mod enums_again;
 
 fn main() {
-    structs_again::run();
+    enums_again::run();
 }
