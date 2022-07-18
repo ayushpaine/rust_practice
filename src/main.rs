@@ -1,4 +1,4 @@
-mod hashmaps;
+mod error_handling;
 fn main() {
-    hashmaps::run();
+    error_handling::run();
 }
