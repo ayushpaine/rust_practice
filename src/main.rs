@@ -1,5 +1,4 @@
-mod enums_again;
-
+mod hashmaps;
 fn main() {
-    enums_again::run();
+    hashmaps::run();
 }
