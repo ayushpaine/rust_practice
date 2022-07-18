@@ -1,4 +1,4 @@
-mod error_handling;
+mod generics;
 fn main() {
-    error_handling::run();
+    generics::run();
 }
