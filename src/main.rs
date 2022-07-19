@@ -1,4 +1,4 @@
-mod lifetimes;
+mod gtl;
 fn main() {
-    lifetimes::run();
+    gtl::run();
 }
